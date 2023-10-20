@@ -34,7 +34,9 @@ statistics
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Tarikozy7&show_icons=true&theme=radical)
 
 
- 
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/furkanevin/count.svg?"  />
+</div>
 
 
 <!---
