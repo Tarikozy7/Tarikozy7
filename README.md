@@ -1,9 +1,9 @@
 <h2 align="center">Hi! 👋  I'm Tarık </h2>     
-###
+
 <!-- <div align="center">
   <img height="200" src="https://media3.giphy.com/media/gk7BbBTgH9fcQ/giphy.gif?cid=790b76116f0bfe111ca88653ff68a56b95ff43756f89c341&rid=giphy.gif&ct=g"  />
 </div> -->
-###
+
    I'm a Frontend and React developer student. My journey in the world of code started with a passion, and I've always been open to self-improvement and embracing new technologies. My love for coding from the very beginning influences innovative approaches in my projects. I'm here to share my latest React projects with you. I'm excited about collaboration and working together on new projects. Join me, and let's create amazing things together! 💻✨"
  I’m interested in Development and working together
  🌱 I’m currently learning Frontend and React
