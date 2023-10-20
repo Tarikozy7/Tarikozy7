@@ -4,7 +4,7 @@
  🌱 I’m currently learning Frontend and React
  💞️ I’m looking to collaborate on 
 
-# - 📫 How to reach me:
+#  📫 How to reach me:
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarikozy7/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarikozyurt_/)     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikozy7@gmail.com)
 
