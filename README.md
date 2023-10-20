@@ -1,8 +1,14 @@
-## 👋 "Hello!
+<h2 align="center">Hi! 👋  I'm Tarık </h2>     
+
+<!-- <div align="center">
+  <img height="200" src="https://media3.giphy.com/media/gk7BbBTgH9fcQ/giphy.gif?cid=790b76116f0bfe111ca88653ff68a56b95ff43756f89c341&rid=giphy.gif&ct=g"  />
+</div> -->
+
    I'm a Frontend and React developer student. My journey in the world of code started with a passion, and I've always been open to self-improvement and embracing new technologies. My love for coding from the very beginning influences innovative approaches in my projects. I'm here to share my latest React projects with you. I'm excited about collaboration and working together on new projects. Join me, and let's create amazing things together! 💻✨"
  I’m interested in Development and working together
  🌱 I’m currently learning Frontend and React
  💞️ I’m looking to collaborate on 
+ 
 
 #  📫 How to reach me:
 
@@ -18,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="30" alt="slack logo"  />
 
 
 
