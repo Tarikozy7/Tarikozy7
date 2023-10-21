@@ -1,3 +1,6 @@
+![](C:\Users\tarik\OneDrive\Masaüstü/image.jpg)
+
+
 <h2 align="center">Hi! 👋  I'm Tarık </h2>     
 
 <!-- <div align="center">
